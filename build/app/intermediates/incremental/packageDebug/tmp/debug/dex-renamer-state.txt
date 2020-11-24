@@ -1,0 +1,4 @@
+#Tue Nov 24 14:48:53 IST 2020
+base.0=/Users/raj/Developer/sign_in_google_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
